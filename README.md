@@ -1,5 +1,3 @@
-(UNDER CONSTRUCTION)
-
 ## 👨‍💻 About Timmytay
 An IT student who specializes in basically everything when enough effort is applied into it. Timmytay's main specialty is road projection analysis and web development.
 
