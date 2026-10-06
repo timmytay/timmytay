@@ -3,6 +3,7 @@
 ## 👨‍💻 About Timmytay
 An IT student who specializes in basically everything when enough effort is applied into it. Timmytay's main specialty is road projection analysis and web development.
 
+To avoid confusion, Timmytay's name is not Timmy.
 
 ## 🌐 Timmytay has general experience with these tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
