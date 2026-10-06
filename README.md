@@ -1,5 +1,5 @@
-## 👨‍💻 About Timmytay
-An IT student who specializes in basically everything when enough effort is applied into it. Timmytay's main specialty is road projection analysis and web development.
+## 👨‍💻 About the user
+***politimmy***/**Timmytay** is an IT student who specializes in basically everything when enough effort is applied into it. Timmytay's main specialty is road projection analysis and web development.
 
 To avoid confusion, Timmytay's name is not Timmy.
 
