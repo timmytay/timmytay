@@ -1,7 +1,7 @@
 ## 👨‍💻 About the user
 ***politimmy***/**Timmytay** is an IT student who specializes in basically everything when enough effort is applied into it. Timmytay's main specialty is road projection analysis and web development.
 
-## 🌐 Timmytay has general experience with these tools
+## 🌐 The user has general experience with these tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
